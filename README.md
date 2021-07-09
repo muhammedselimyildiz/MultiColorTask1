@@ -1,3 +1,3 @@
 # MultiColorTask1
  First Frontend Project
-HTML, CSS and Bootsrap were used in tihs project
+HTML, CSS and Bootsrap were used in this project
